@@ -1,0 +1,96 @@
+[
+  {
+    "email": "bob@gmail.com",
+    "name": "bob",
+    "company": "d2",
+    "companyEmail": "d2@gmail.com",
+    "companyAddress": "surat",
+    "gstNumber": "dsfnsdf",
+    "id": "8e8a246b-3659-427d-a63c-6d3b1a20a5a1"
+  },
+  {
+    "email": "ayush@gmail.com",
+    "name": "dsf",
+    "company": "dasd",
+    "companyEmail": "asd@gmail.com",
+    "companyAddress": "sad",
+    "gstNumber": "asdas",
+    "id": "a42b2ac3-c9fe-4e12-b9e6-a57e75274f07"
+  },
+  {
+    "email": "admin@gmail.com",
+    "name": "Ayush Mavani",
+    "company": "dsdsd2",
+    "companyEmail": "swda@gmail.com",
+    "companyAddress": "Motavaracha",
+    "gstNumber": "adasd",
+    "id": "30327362-135e-46b9-ac2a-c5fb27ff3299"
+  },
+  {
+    "email": "admin@gmail.com",
+    "name": "Ayush Mavani",
+    "company": "dsdsd2",
+    "companyEmail": "d2@gmail.com",
+    "companyAddress": "surat",
+    "gstNumber": "fsdbfsdjfb",
+    "id": "e1f6f3c4-7fb4-4995-93bc-58af3dee9f9f"
+  },
+  {
+    "email": "ayush20@gmail.com",
+    "name": "dmeo",
+    "company": "d2",
+    "companyEmail": "d2@gmail.com",
+    "companyAddress": "Motavaracha",
+    "gstNumber": "fsdf23bi423",
+    "id": "3eda1266-6635-4da4-81d1-2584c0c34d0c"
+  },
+  {
+    "email": "ayush@gmail.com",
+    "name": "test",
+    "company": "test ",
+    "companyEmail": "test@gmail.com",
+    "companyAddress": "te",
+    "gstNumber": "fne23n4@#23",
+    "id": "6be4e021-3db5-4814-9889-ba2f71a85bfb"
+  },
+  {
+    "email": "ayush20@gmail.coms",
+    "name": "Ayush Mavani",
+    "company": "d222",
+    "companyEmail": "demo@gmail.cpm",
+    "companyAddress": "Motavaracha",
+    "gstNumber": "asdasd",
+    "userId": "02efaa66-4a66-466f-b92b-24ce7366edf0",
+    "id": "56b021f3-06d8-4754-9df0-19f95750ec7e"
+  },
+  {
+    "email": "rakesh@gmail.com",
+    "name": "rakesh",
+    "company": "test",
+    "companyEmail": "test@gmail.com",
+    "companyAddress": "rest",
+    "gstNumber": "nsdjun@!#",
+    "userId": "9e711279-82c7-434f-9299-415d4f146319",
+    "id": "4a00c8c8-899a-4e56-a27f-ca791605b517"
+  },
+  {
+    "email": "ayush@gmail.com",
+    "name": "Ayush Mavani",
+    "company": "demo",
+    "companyEmail": "d2@gmail.com",
+    "companyAddress": "Motavaracha",
+    "gstNumber": "wefee",
+    "userId": "",
+    "id": "a888e877-1459-4dfb-bea0-f398ac00b1f8"
+  },
+  {
+    "email": "admin@gmail.com",
+    "name": "Ayush Mavani",
+    "company": "demo",
+    "companyEmail": "d2@gmail.com",
+    "companyAddress": "Motavaracha",
+    "gstNumber": "sasasa",
+    "userId": "",
+    "id": "d218a9dc-cfdb-4fa5-a156-ba81a4229707"
+  }
+]

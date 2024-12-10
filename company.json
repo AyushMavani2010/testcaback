@@ -1,0 +1,42 @@
+[
+  {
+    "id": "b4ba5cc3-f467-4a5b-b741-5d69c7128bbc",
+    "company": "d2",
+    "companyEmail": "d2@gmail.com",
+    "companyAddress": "test",
+    "gstNumber": "tset",
+    "userId": "fe69e7ad-433e-47e5-9d59-8e7c2f0d6e64"
+  },
+  {
+    "id": "6b9a49cf-a125-45f5-a7be-9e973074dfff",
+    "company": "demo",
+    "companyEmail": "demo@gmail.cpm",
+    "companyAddress": "Motavaracha",
+    "gstNumber": "dfgsdff",
+    "userId": "77e0554b-500f-4d4a-b997-47908d0b6051"
+  },
+  {
+    "id": "fb273b9b-e4cc-44b2-9fc7-8fafbc40168f",
+    "company": "ayush",
+    "companyEmail": "demo@gmail.cpm",
+    "companyAddress": "Motavaracha",
+    "gstNumber": "dfgsdff",
+    "userId": "02efaa66-4a66-466f-b92b-24ce7366edf0"
+  },
+  {
+    "id": "8282298c-1260-45e1-a821-752396c1495d",
+    "company": "demo",
+    "companyEmail": "demo@gmail.cpm",
+    "companyAddress": "Motavaracha",
+    "gstNumber": "asdasdasf",
+    "userId": "9e711279-82c7-434f-9299-415d4f146319"
+  },
+  {
+    "id": "29407065-2c4b-4bf9-80ff-acb065323cbe",
+    "company": "D2 ",
+    "companyEmail": "d2@gmail.com",
+    "companyAddress": "test",
+    "gstNumber": "tzxkljsdkj",
+    "userId": "fa53c570-fd29-4862-9ad9-b112ca81b6ac"
+  }
+]
